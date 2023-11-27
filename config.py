@@ -58,7 +58,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "True") == "True" el
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "[Direct Mega Links😊😍](https://t.me/+G_X_urFv6ZpmNDkx)</b>\n\n[Daily Special Mega Links🥰](https://t.me/+SNSFScToH4piNTk1)</b>\n\n[TeraBox 🎁 unlimited Links](https://t.me/+S7SN-3vnD1s4YjEx)</b>\n\n[Main Channel⚡️](https://t.me/+kxI_UMH4ZxljODg1)</b>\n\n[Leaks Updates channel🔥](https://t.me/+wxDSKyTwAMowZGFl)</b>\n\n[❤️‍🩹Join Our All Stuff Channels in Single Click🔥](https://t.me/addlist/RPm4cp5PE_Q5MzM1)</b>\n\n"
+USER_REPLY_TEXT = "Join: [Direct Mega Links😊😍](https://t.me/+G_X_urFv6ZpmNDkx)</b>\n\n[Daily Special Mega Links🥰](https://t.me/+SNSFScToH4piNTk1)</b>\n\n[TeraBox 🎁 unlimited Links](https://t.me/+S7SN-3vnD1s4YjEx)</b>\n\n[Main Channel⚡️](https://t.me/+kxI_UMH4ZxljODg1)</b>\n\n[Leaks Updates channel🔥](https://t.me/+wxDSKyTwAMowZGFl)</b>\n\n[❤️‍🩹Join Our All Stuff Channels in Single Click🔥](https://t.me/addlist/RPm4cp5PE_Q5MzM1)</b>\n\n"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1731373649)
